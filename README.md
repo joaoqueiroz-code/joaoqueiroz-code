@@ -28,9 +28,8 @@ Hello, everybody! 😁
 
 ## Favorite Languages
 <div style="display:flex;flex-wrap:no-wrap;">
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=gotham" />
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&layout=compact)](https://github.com/joaoqueiroz-code/github-readme-stats" />
-
+ <img height="168" src="https://github-readme-stats-eight-theta.vercel.app/api?username=	joaoqueiroz-code&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="168x" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=	joaoqueiroz-code&layout=compact&langs_count=8&theme=gotham"/>
 ## Social Media
 <div>
   <a href = "mailto: joaoqueiroz-code@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
