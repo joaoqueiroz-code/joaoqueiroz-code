@@ -1,10 +1,10 @@
-Hello everyone 👋🏾!
+Hi, everybody!
 
-📘 I'm a Front-End developer and I'm always willing to learn new things!
+I'm a Front-End developer and I'm always learning new things!
 
-📕 Programming is solving problems (bugs), finding unthinkable solutions for certain situations. In the programming I find the combination of two things I love, helping people and solving problems!
+I have fun solving problems and helping to evolve more and more programming.
 
-✨ We can find different ways to see things, just be calm and attentive. 
+Just do it!
 
 ## Back-end development languages
 
@@ -28,7 +28,7 @@ Hello everyone 👋🏾!
 
 ## Favorite Languages
 <div style="display:flex;flex-wrap:no-wrap;">
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kuruegane&show_icons=true&theme=default" />
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=default" />
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&layout=compact)](https://github.com/joaoqueiroz-code/github-readme-stats" />
 </div>
 
