@@ -1,4 +1,4 @@
-Hi, everybody! 😁
+Hello, everybody! 😁
 
 🚀 I'm a Front-End developer and I'm always learning new things!
 
