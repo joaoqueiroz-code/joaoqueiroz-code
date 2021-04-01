@@ -1,10 +1,10 @@
-Hi, everybody!
+Hi, everybody! 😁
 
-I'm a Front-End developer and I'm always learning new things!
+🚀 I'm a Front-End developer and I'm always learning new things!
 
-I have fun solving problems and helping to evolve more and more programming.
+🚀 I have fun solving problems and helping to evolve more and more programming.
 
-Just do it!
+🚀 Just do it!
 
 ## Back-end development languages
 
