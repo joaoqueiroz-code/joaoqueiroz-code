@@ -4,7 +4,7 @@ Hello, everybody! 😁
 
 🚀 I have fun solving problems and helping to evolve more and more programming.
 
-🚀 Just do it!
+🚀 I have fun creating programs.
 
 ## Back-end development languages
 
@@ -28,7 +28,7 @@ Hello, everybody! 😁
 
 ## Favorite Languages
 <div style="display:flex;flex-wrap:no-wrap;">
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=default" />
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=gotham" />
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&layout=compact)](https://github.com/joaoqueiroz-code/github-readme-stats" />
 </div>
 
