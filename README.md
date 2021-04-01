@@ -29,7 +29,8 @@ Hello, everybody! 😁
 ## Favorite Languages
 <div style="display:flex;flex-wrap:no-wrap;">
  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=gotham" />
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&layout=compact&theme=gotham)](https://github.com/joaoqueiroz-code/github-readme-stats" />
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&layout=compact)](https://github.com/joaoqueiroz-code/github-readme-stats" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&theme=gotham)](https://github.com/joaoqueiroz-code/github-readme-stats" />
 </div>
 
 
