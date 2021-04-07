@@ -4,8 +4,6 @@ Hello, everybody! 😁
 
 🚀 I have fun solving problems and helping to evolve more and more programming.
 
-🚀 I have fun creating programs.
-
 ## Back-end development languages
 
 - Python (Learning)
