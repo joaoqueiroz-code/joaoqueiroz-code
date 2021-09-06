@@ -15,7 +15,6 @@ Hello, welcome to my perfil! 😁
   </div>
 <br>
 
-## Favorite Languages
 <div style="display:flex;flex-wrap:no-wrap;">
  <img height="168" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <div>
