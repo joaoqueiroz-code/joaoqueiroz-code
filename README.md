@@ -1,10 +1,8 @@
-Hello, everybody! 😁
-
-🚀 I'm a Front-End developer and I'm always learning new things!
+Hello, welcome to my perfil! 😁
 
 🚀 I have fun solving problems and helping to evolve more and more programming.
 
-## Development languages
+## My development languages
 - Python
 - JavaScript
 - HTML
