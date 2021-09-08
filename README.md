@@ -1,6 +1,6 @@
 Hello, welcome to my perfil! 😁
 
-🐉 I have fun solving problems and helping to evolve more and more programming. 
+🔭 I have fun solving problems and helping to evolve more and more programming. 
 
 ## My development languages
 - Python
