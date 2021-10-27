@@ -4,8 +4,8 @@ Hello, welcome to my perfil! 😁
 
 ## My development languages
 - Python
-- Node(Learning)
-- Typerscript(Learning)
+- Node (Learning)
+- Typerscript (Learning)
 - JavaScript
 - HTML
 - CSS3
