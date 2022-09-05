@@ -2,7 +2,7 @@ Hello, welcome to my perfil! 😁
 
 🔭 I have fun solving problems and helping to evolve more and more programming. 
 
-## My development languages
+## MY MAIN SKILLS
 <div style="display:flex;">
   <div>
     JS - 3 anos<br>
