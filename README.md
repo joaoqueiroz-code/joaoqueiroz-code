@@ -3,12 +3,20 @@ Hello, welcome to my perfil! 😁
 🔭 I have fun solving problems and helping to evolve more and more programming. 
 
 ## My development languages
-- Python
-- Node (Learning)
-- Typerscript (Learning)
-- JavaScript
-- HTML
-- CSS3
+JS - 3 anos
+React - 1 ano
+CSS - 3 anos
+API - 1 ano
+SQL - 1 ano
+HTML - 3 anos
+PHP  (CodeIgniter) - 1 ano
+
+JQuery - 1 ano
+Bootstrap - 2 anos
+MVC - 1 ano
+GIT - 3 anos
+Linux - 2 ano 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
