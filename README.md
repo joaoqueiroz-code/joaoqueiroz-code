@@ -5,20 +5,20 @@ Hello, welcome to my perfil! 😁
 ## My development languages
 <div style="display:flex;">
   <div>
-    JS - 3 anos<>
-    React - 1 ano
-    CSS - 3 anos
-    API - 1 ano
-    SQL - 1 ano
-    HTML - 3 anos
+    JS - 3 anos<br>
+    React - 1 ano<br>
+    CSS - 3 anos<br>
+    API - 1 ano<br>
+    SQL - 1 ano<br>
+    HTML - 3 anos<br>
   </div>
   <div>
-    PHP  (CodeIgniter) - 1 ano
-    JQuery - 1 ano
-    Bootstrap - 2 anos
-    MVC - 1 ano
-    GIT - 3 anos
-    Linux - 2 ano 
+    PHP  (CodeIgniter) - 1 ano<br>
+    JQuery - 1 ano<br>
+    Bootstrap - 2 anos<br>
+    MVC - 1 ano<br>
+    GIT - 3 anos<br>
+    Linux - 2 ano <br>
   </div>
 </div>
 
