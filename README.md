@@ -10,7 +10,6 @@ API - 1 ano
 SQL - 1 ano
 HTML - 3 anos
 PHP  (CodeIgniter) - 1 ano
-
 JQuery - 1 ano
 Bootstrap - 2 anos
 MVC - 1 ano
