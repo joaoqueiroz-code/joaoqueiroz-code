@@ -3,7 +3,7 @@ Hello, welcome to my perfil! 😁
 🔭 I have fun solving problems and helping to evolve more and more programming. 
 
 ## MY MAIN SKILLS
-<div style="display:flex;">
+<div style="display:flex; flex-direction:row; justify-content:space-between;">
   <div>
     JS - 3 anos<br>
     React - 1 ano<br>
