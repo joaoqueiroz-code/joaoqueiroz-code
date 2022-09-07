@@ -4,7 +4,7 @@ Hello, welcome to my perfil! 😁
 
 ## MY MAIN SKILLS
 <div style="display:flex; flex-direction:row; justify-content:space-between;">
-    <p style="font-weigth:600;">JS - 3 anos</p><br>
+    JS - 3 anos<br>
     React - 1 ano<br>
     CSS - 3 anos<br>
     API - 1 ano<br>
