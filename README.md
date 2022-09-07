@@ -4,24 +4,18 @@ Hello, welcome to my perfil! 😁
 
 ## MY MAIN SKILLS
 <div style="display:flex; flex-direction:row; justify-content:space-between;">
-  <div>
     JS - 3 anos<br>
     React - 1 ano<br>
     CSS - 3 anos<br>
     API - 1 ano<br>
     SQL - 1 ano<br>
     HTML - 3 anos<br>
-  </div>
- ##
-  <div>
     PHP  (CodeIgniter) - 1 ano<br>
     JQuery - 1 ano<br>
     Bootstrap - 2 anos<br>
     MVC - 1 ano<br>
     GIT - 3 anos<br>
     Linux - 2 ano <br>
-  </div>
-</div>
 
 
 <div style="display: inline_block"><br>
