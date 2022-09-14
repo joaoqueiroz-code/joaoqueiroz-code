@@ -41,9 +41,11 @@ const profile = () => {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=dracula&line_height=27" alt="**JOAO QUEIROZ** github stats"/>
 </a>
 
-[linkedin]: https://www.linkedin.com/in/joaoqueiroz-c/
 <br>
 
 #### Social networking
 
-<img align="center" alt="João-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> [linkedin][linkedin]
+<a href="https://www.linkedin.com/in/joaoqueiroz-c/">
+<img align="center" alt="João-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> 
+</a>
+
