@@ -46,4 +46,4 @@ const profile = () => {
 
 #### Social networking
 
-<img align="center" alt="João-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> [linkedin][linkedin]
+<img align="center" alt="João-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> [linkedin]
