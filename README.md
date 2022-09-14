@@ -3,8 +3,6 @@
 🔭 My goal is to develop dynamic and smart pages with the best user experiences 
  focused on using clean and readable code.
 
-<br>
-
 <img width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ## **Languages and Frameworks:**  
