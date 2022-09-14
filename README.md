@@ -1,12 +1,5 @@
 ### Hello, welcome to my perfil! 👋
 
-🔭 I have fun solving problems and helping to evolve more and more programming.
-<br>
-My goal is to develop dynamic and smart pages with the best user experiences focused on using clean and readable code.
-
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-
 <img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
@@ -15,6 +8,12 @@ const profile = () => {
  let title = "FRONT-END / FULL-STACK";
 }
 ```
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+🔭 I have fun solving problems and helping to evolve more and more programming.
+<br>
+My goal is to develop dynamic and smart pages with the best user experiences focused on using clean and readable code.
 
 ## **Languages and Frameworks:**  
 
