@@ -4,7 +4,7 @@
 <br>
 My goal is to develop dynamic and smart pages with the best user experiences focused on using clean and readable code.
 
-<img width="300" src="[https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" />
+<img width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ```javascript
 const profile = () => {
