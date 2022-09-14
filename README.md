@@ -11,12 +11,8 @@ My goal is to develop dynamic and smart pages with the best user experiences foc
 
 ```javascript
 const profile = () => {
- let name = "JOAO QUEIROZ"
- let title = "FRONT-END / FULL-STACK"
- 
- let primarySkillset = "ALGUMAS HABILIDADES"
- let skills = listOf("PHP", "Python", "JavaScript", "NodeJS", "ReactJS") 
-
+ let name = "JOAO QUEIROZ";
+ let title = "FRONT-END / FULL-STACK";
 }
 ```
 
