@@ -1,17 +1,16 @@
-### Hello, welcome to my perfil! 👋
-
-🔭 I have fun solving problems and helping to evolve more and more programming.
-<br>
-My goal is to develop dynamic and smart pages with the best user experiences focused on using clean and readable code.
-
-<img width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+### Hello, welcome to my profile! 👋
 
 ```javascript
 const profile = () => {
  let name = "JOAO QUEIROZ";
  let title = "FRONT-END / FULL-STACK";
+ let 
+ let goal = "🔭 My goal is to develop dynamic and smart pages with the best user experiences focused on using clean and readable code."
+ 
 }
 ```
+
+<img width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ## **Languages and Frameworks:**  
 
