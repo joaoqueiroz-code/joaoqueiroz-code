@@ -1,9 +1,5 @@
 ### Hello, welcome to my profile! 👋
 
-<img width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
-
-<br>
-
 ```javascript
 const profile = () => {
  let name = "JOAO QUEIROZ";
@@ -13,6 +9,10 @@ const profile = () => {
  
 }
 ```
+
+<br>
+
+<img width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ## **Languages and Frameworks:**  
 
