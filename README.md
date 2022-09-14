@@ -1,6 +1,7 @@
 ### Hello, welcome to my perfil! 👋
 
-🔭 I have fun solving problems and helping to evolve more and more programming. 
+🔭 I have fun solving problems and helping to evolve more and more programming.
+<br>
 I aim to develop dynamic, intelligent pages with the best user experiences focused on using clean and readable code.
 
 
