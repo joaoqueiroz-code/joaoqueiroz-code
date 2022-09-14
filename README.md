@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile! 👋
 
-<img align="right" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" height="200" width="200" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ```javascript
 const profile = () => {
