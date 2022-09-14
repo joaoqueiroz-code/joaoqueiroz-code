@@ -1,6 +1,8 @@
 ### Hello, welcome to my perfil! 👋
 
 🔭 I have fun solving problems and helping to evolve more and more programming. 
+I aim to develop dynamic, intelligent pages with the best user experiences focused on using clean and readable code.
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
