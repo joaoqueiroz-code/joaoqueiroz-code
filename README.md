@@ -13,9 +13,6 @@ My goal is to develop dynamic and smart pages with the best user experiences foc
 const profile = () => {
  let name = "JOAO QUEIROZ";
  let title = "FRONT-END / FULL-STACK";
- 
- let goal = "My goal is to develop dynamic and smart pages with the best user experiences focused on using clean and readable code."
- 
 }
 ```
 
