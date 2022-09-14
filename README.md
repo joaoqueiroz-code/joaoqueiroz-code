@@ -27,7 +27,7 @@ const profile = () => {
   <img align="center" alt="João-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="João-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="João-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="João-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="João-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 <br>
 
