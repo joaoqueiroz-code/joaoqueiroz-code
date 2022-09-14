@@ -17,7 +17,7 @@ const profile = () => {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Frameworks:**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -34,7 +34,7 @@ const profile = () => {
 <br>
 
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&theme=dracula&hide_langs_below=1" />
@@ -48,6 +48,6 @@ const profile = () => {
 [linkedin]: https://www.linkedin.com/in/joaoqueiroz-c/
 <br>
 
-#### Rede Sociais!
+#### Social networking
 
 👔 [linkedin][linkedin]
