@@ -25,12 +25,12 @@
 ## **GitHub Statistics**
 
 <a href="https://github.com/joaoqueiroz-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz-code&theme=chartreuse-dark&hide_langs_below=1" />
 </a>
 <br>
 <br>
 <a href="https://github.com/joaoqueiroz-code">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=dracula&line_height=27" alt="**JOAO QUEIROZ** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoqueiroz-code&show_icons=true&theme=chartreuse-dark&line_height=27" alt="**JOAO QUEIROZ** github stats"/>
 </a>
 
 <br>
