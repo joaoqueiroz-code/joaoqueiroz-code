@@ -11,11 +11,3 @@ Sou um desenvolvedor altamente motivado e apaixonado por tecnologia, sempre em b
   <img align="center" alt="João-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="João-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div>
-<br>
-
-#### Social networking
-
-<a href="https://www.linkedin.com/in/joaoqueiroz-c/">
-<img align="center" alt="João-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> 
-</a>
-
