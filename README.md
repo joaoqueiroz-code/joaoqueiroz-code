@@ -2,8 +2,6 @@
 
 🔭 My goal is to develop dynamic and smart pages with the best user experiences 
  focused on using clean and readable code.
- 
- <img height="300" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" />
 
 ## **Languages and Frameworks:**  
 
