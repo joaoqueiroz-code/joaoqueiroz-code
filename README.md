@@ -1,9 +1,8 @@
-### Hello, welcome to my profile! 👋
+### Seja bem-vindo ao meu perfil no LinkedIn!  👋
 
-🔭 My goal is to develop dynamic and smart pages with the best user experiences 
- focused on using clean and readable code.
+Sou um desenvolvedor altamente motivado e apaixonado por tecnologia, sempre em busca de evoluir e aperfeiçoar minhas habilidades. Além de excelentes habilidades técnicas, também possuo fortes habilidades interpessoais, como liderança e comunicação eficaz, o que me permite trabalhar de forma colaborativa com equipes diversas. Sou reconhecido por minha criatividade e capacidade de encontrar soluções inovadoras para os desafios mais complexos.
 
-## **Languages and Frameworks:**  
+## **Ferramentas:**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
