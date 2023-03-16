@@ -1,4 +1,4 @@
-### Seja bem-vindo ao meu perfil no LinkedIn!  👋
+### Seja bem-vindo ao meu perfil no Github!  👋
 
 Sou um desenvolvedor altamente motivado e apaixonado por tecnologia, sempre em busca de evoluir e aperfeiçoar minhas habilidades. Além de excelentes habilidades técnicas, também possuo fortes habilidades interpessoais, como liderança e comunicação eficaz, o que me permite trabalhar de forma colaborativa com equipes diversas. Sou reconhecido por minha criatividade e capacidade de encontrar soluções inovadoras para os desafios mais complexos.
 
