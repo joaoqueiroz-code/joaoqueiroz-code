@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu perfil no Github!  👋
 
-Sou um desenvolvedor altamente motivado e apaixonado por tecnologia, sempre em busca de evoluir e aperfeiçoar minhas habilidades. Além de excelentes habilidades técnicas, também possuo fortes habilidades interpessoais, como liderança e comunicação eficaz, o que me permite trabalhar de forma colaborativa com equipes diversas. Sou reconhecido por minha criatividade e capacidade de encontrar soluções inovadoras para os desafios mais complexos.
+Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento de software, integrações e manutenção. Habilidades técnicas sólidas combinadas com capacidade de trabalho em equipe e comunicação eficaz. Reconhecido pela criatividade e soluções inovadoras para desafios complexos. Sempre em busca de aprendizado e atualização. Aberto a conexões e colaborações na área de tecnologia.
 
 ## **Ferramentas:**  
 
