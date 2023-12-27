@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento de software, integrações e manutenção. Habilidades técnicas sólidas combinadas com capacidade de trabalho em equipe e comunicação eficaz. Reconhecido pela criatividade e soluções inovadoras para desafios complexos. Sempre em busca de aprendizado e atualização. Aberto a conexões e colaborações na área de tecnologia.
 
-## **Ferramentas:**  
+## **Tecnologias:**  
 
 <div style="display: inline_block"><br>
   <img align="center" title="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
