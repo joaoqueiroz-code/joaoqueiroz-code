@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer with effective communication, critical thinking, and a willingness to learn, with experience in developing web and mobile applications. I have excellent knowledge of CLEAN CODE, ensuring software quality and performance. I always stay updated with market technologies and trends. I am recognized for my proactivity and ability to find solutions to problem-solving. My goal is to apply my experience to create robust and innovative solutions, collaborate with teams, and positively influence the company's products.
 
-## **Tecnologias:**  
+## **Development Tools and Technologies:**  
 
 <div style="display: inline_block"><br>
   <img align="center" title="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
