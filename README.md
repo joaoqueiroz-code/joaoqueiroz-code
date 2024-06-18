@@ -1,6 +1,6 @@
-### Seja bem-vindo ao meu perfil no Github!  👋
+### 👋 Welcome to my LinkedIn profile! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em desenvolvimento de software, integrações e manutenção. Habilidades técnicas sólidas combinadas com capacidade de trabalho em equipe e comunicação eficaz. Reconhecido pela criatividade e soluções inovadoras para desafios complexos. Sempre em busca de aprendizado e atualização. Aberto a conexões e colaborações na área de tecnologia.
+I am a Full Stack Developer with effective communication, critical thinking, and a willingness to learn, with experience in developing web and mobile applications. I have excellent knowledge of CLEAN CODE, ensuring software quality and performance. I always stay updated with market technologies and trends. I am recognized for my proactivity and ability to find solutions to problem-solving. My goal is to apply my experience to create robust and innovative solutions, collaborate with teams, and positively influence the company's products.
 
 ## **Tecnologias:**  
 
