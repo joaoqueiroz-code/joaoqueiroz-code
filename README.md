@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
-I am a Full Stack Developer with effective communication, critical thinking, and a willingness to learn, with experience in developing web and mobile applications. I have excellent knowledge of CLEAN CODE, ensuring software quality and performance. I always stay updated with market technologies and trends. I am recognized for my proactivity and ability to find solutions to problem-solving. My goal is to apply my experience to create robust and innovative solutions, collaborate with teams, and positively influence the company's products.
+I’m a Mid-Level Full Stack Developer with over 4 years of experience in web applications, working with JavaScript, TypeScript, React, PHP, Node.js, and SQL/NoSQL databases. I’ve contributed to ERP projects, API integrations, and CRM development, always focusing on quality, performance, and innovation. I’m highly motivated to learn, proactive, and skilled in problem-solving.
 
 ### **Development Tools and Technologies:**  
 
