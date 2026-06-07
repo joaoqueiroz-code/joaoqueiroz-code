@@ -1,14 +1,18 @@
-![Node.js](https://img.shields.io/badge/Node.js-%23555?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23555?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%23555?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%23555?style=flat-square&logo=react&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23555?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23555?style=flat-square&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23555?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23555?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23555?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23555?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23555?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23555?style=flat-square&logo=linux&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23555?style=flat-square&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-%23555?style=flat-square&logo=traefikproxy&logoColor=white)
+## Welcome to my profile! 👋
+
+I’m a Mid-Level Full Stack Developer with over 4 years of experience in web applications, working with JavaScript, TypeScript, React, PHP, Node.js, and SQL/NoSQL databases. I’ve contributed to ERP projects, API integrations, and CRM development, always focusing on quality, performance, and innovation. I’m highly motivated to learn, proactive, and skilled in problem-solving.
+
+### **Development Tools and Technologies:**  
+
+<div style="display: inline_block"><br>
+  <img align="center" title="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" title="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" title="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" title="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" title="codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+  <img align="center" title="jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" title="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+</div>
