@@ -1,51 +1,39 @@
-# João Queiroz · Full Stack Developer
+## João Victor Queiroz · Full Stack Developer
 
-Construo produtos completos — da arquitetura ao deploy em produção.  
-4+ anos em fintechs, automação comercial e sistemas distribuídos.
-
----
-
-## 🚀 About me
-
-- 🏦 Especializado em sistemas financeiros de alta escala
-- 🤖 Experiência com assistentes de IA e automação omnichannel
-- ⚙️ Atuo em todo o ciclo: arquitetura → código → infra → produção
-- 📍 Florianópolis, SC · Aberto a oportunidades remotas
+![Localização](https://img.shields.io/badge/📍_Florianópolis,_SC-E6F1FB?style=flat-square&color=E6F1FB&labelColor=0C447C)
+![Status](https://img.shields.io/badge/✅_Aberto_a_remotas-EAF3DE?style=flat-square&color=3B6D11)
+![Exp](https://img.shields.io/badge/4+_anos_de_experiência-EEEDFE?style=flat-square&color=3C3489)
 
 ---
 
-## 🛠️ Tech Stack
+Construo produtos completos — da arquitetura ao deploy em produção.
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Banco de Dados**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Infra & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
-
-**Arquitetura**  
-`REST APIs` `WebSockets` `Event-Driven` `Clean Architecture` `Webhooks` `RBAC`
+Especializado em sistemas financeiros de alto volume, automação comercial e assistentes de IA. Não entro em projetos para escrever código — entro para resolver problemas reais com tecnologia.
 
 ---
 
-## 📬 Contact
+### 🛠 Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaoqueiroz-c)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact.joaoqueiroz@gmail.com)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+### ⚡ Especialidades
+
+| 🏦 Sistemas financeiros | 🤖 Assistentes de IA |
+|---|---|
+| ⚙️ Arquiteturas distribuídas | 🚀 Do zero ao deploy |
+
+---
+
+📬 [contact.joaoqueiroz@gmail.com](mailto:contact.joaoqueiroz@gmail.com) · [LinkedIn](https://linkedin.com/in/joaoqueiroz-c)
