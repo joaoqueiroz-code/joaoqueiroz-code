@@ -2,7 +2,7 @@
 
 Software Engineer with 4+ years of experience building scalable web applications, distributed systems, financial platforms, and high-volume API integrations.
 
-I work across the entire software lifecycle—from architecture and backend development to cloud infrastructure and production operations. My primary stack includes Node.js, TypeScript, React, PostgreSQL, MySQL, Redis, Docker, and Linux.
+I work across the entire software lifecycle, from architecture and backend development to cloud infrastructure and production operations. My primary stack includes Node.js, TypeScript, React, PostgreSQL, MySQL, Redis, Docker, and Linux.
 
 Currently focused on:
 
